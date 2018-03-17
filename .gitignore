@@ -2,3 +2,4 @@
 /bin
 /.project
 target
+core/ternjs/node_modules/tern-eslint/node_modules
